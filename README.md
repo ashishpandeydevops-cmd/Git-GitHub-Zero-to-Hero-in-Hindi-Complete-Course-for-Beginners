@@ -1,0 +1,2 @@
+# Git-GitHub-Zero-to-Hero-in-Hindi-Complete-Course-for-Beginners
+Welcome to the Git &amp; GitHub Zero to Hero course!  Learn Git and GitHub from scratch with step-by-step practical demonstrations, real-world examples, hands-on assignments, and interview preparation.  Topics covered: - Introduction to Git and version control - Git installation and configuration - Git commands, commits, and history - Branching, mergi
